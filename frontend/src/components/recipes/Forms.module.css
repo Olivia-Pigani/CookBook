@@ -1,0 +1,15 @@
+
+.formStyle{
+    display: flex;
+    justify-content: center;
+}
+
+.firstLabels{
+    display: flex;
+    flex-direction: column;
+}
+
+.firstInputs{
+    display: flex;
+    flex-direction: column;
+}
